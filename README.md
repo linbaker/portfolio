@@ -17,7 +17,7 @@ _This website gives my basic information, picture, and project history. This app
 
 ## Known Bugs
 
-_Known bugs here_
+_Unable to make 'Wikipedia Recreation' panel heading to change colors_
 
 ## Support and contact details
 
