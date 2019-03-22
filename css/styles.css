@@ -1,6 +1,14 @@
+.panel-heading {
+  background-color: #e3e9f2;
+}
+
+.panel-body {
+  background-color: #edf2f9;
+}
 .name img {
   width: 100%;
   float: right;
+  border: 10px solid #9fb2ce;
 }
 .top-right {
   position: absolute;
@@ -12,9 +20,10 @@
   padding-right: 25px;
   border: 5px solid black;
 }
+
 .top-right ul {
   color: black;
-  font-size: 15px;
+  font-size: 20px;
   font-weight: bold;
 }
 .top-right h1 {
