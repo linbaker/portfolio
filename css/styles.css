@@ -47,7 +47,12 @@ body {
 .listtitle {
   font-weight: bold;
 }
+.Wikipedia {
+  background-color: blue;
+}
 .dog {
-  width: 100%;
+  float: left;
+  width: 30%;
+  margin: 5px;
   border: 2px solid #9fb2ce;
 }
