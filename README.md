@@ -1,7 +1,7 @@
 # _Portfolio Webpage_
 
 
-#### _Portfolio Project for Epicodus, 03/22/2019 _
+#### Portfolio Project for Epicodus, 03/22/2019 
 
 #### By _**Lindsey Baker**_
 
