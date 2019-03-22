@@ -1,4 +1,23 @@
-.container-fluid img {
-  width: 20%;
+.name img {
+  width: 100%;
   float: right;
+}
+.top-right {
+  position: absolute;
+  top: 50px;
+  right: 15px;
+  background-color: white;
+  opacity: 0.5;
+  padding-left: 25px;
+  padding-right: 25px;
+  border: 5px solid black;
+}
+.top-right ul {
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+}
+.top-right h1 {
+  color: black;
+  font-weight: bold;
 }
