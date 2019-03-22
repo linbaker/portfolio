@@ -47,3 +47,7 @@ body {
 .listtitle {
   font-weight: bold;
 }
+.dog {
+  width: 100%;
+  border: 2px solid #9fb2ce;
+}
